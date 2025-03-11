@@ -36,3 +36,8 @@ Follow these steps to install and run the Reddit clone app on your local machine
 
 - Key technologies used: Docker, Docker Hub, Kubernetes, Minikube, CI/CD, Containerization, Automation, Monitoring, Logging, Reddit Clone Application.
 
+  Final Result : when we browse to the localhost with port 3000..
+  reddit app..
+  ![jigyanshu reddit ss](https://github.com/user-attachments/assets/33057af5-236f-434d-b85d-806882605114)
+
+
